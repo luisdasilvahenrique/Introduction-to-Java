@@ -1,4 +1,4 @@
-package module_1_java;
+package Module_1_java;
 
 public class Matriz {
     public static void main(String[] args) {
