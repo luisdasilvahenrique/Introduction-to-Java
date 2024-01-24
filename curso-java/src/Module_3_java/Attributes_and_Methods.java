@@ -1,6 +1,7 @@
 package Module_3_java;
 
 public class Attributes_and_Methods {
+    // variavel de vetores com nomes
     public String name = "John";
     public int age = 24;
 
