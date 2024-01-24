@@ -1,4 +1,4 @@
-package Module_3_java.Base_enumerators;
+package Module_3_java;
 
 public enum jav {
     Junior(1, 1),
